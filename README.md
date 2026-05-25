@@ -18,7 +18,7 @@ Here are some projects I have, am, will, or hope to work on.
 | Project | Description | Status | Repo Link |
 |---------|-------------|--------|-----------|
 | USBLlama | Resize the output layer of an LLM and train it to use the output tokens for whatever you tell it they are for at inference time. | WIP (Work In Progress) | NoneType |
-| ChewOnIt | A Markdown-like programming language for easily setting up agentic workflows for low resource models. | WIP (Work In Progress) | NoneType |
+| ChewOnIt | A high level programming language for easily setting up agentic workflows for low resource models. | WIP (Work In Progress) | NoneType |
 | MCCL (My Custom Compiled Lang) | A simple compiled language using a Python compiler for learning. | Hope to | NoneType |
 | Rusthyon | A part compiled, part interpreted language. Allows for both in the same program. | Hope to | NoneType |
 
