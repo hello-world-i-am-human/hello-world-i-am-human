@@ -39,3 +39,7 @@ Now is all.
 - I don't smile unless amused, happy, or other wise prompted to do so.
 - I don't like that Anthropic won't let me use Claude.
 - You are reading this.
+
+## Contact
+Hugging Face: [@hello-world-i-am-human](https://huggingface.co/hello-world-i-am-human)  
+Kaggle: [@elijahmcmahon](https://kaggle.com/elijahmcmahon)
