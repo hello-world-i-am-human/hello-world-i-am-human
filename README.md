@@ -12,6 +12,7 @@ These are just some of the things I'm interested in. But really, anything that n
 - Quantum Physics/mechanics/computing. I don't know much here, but I find it very interesting.
 - Cryptology. Again, me and my limited knowledge find this fascinating.
 - Hardware and Bare metal programming. I basically know what hardware is, beyond that, still learning. I hope to design an open source computer at some point that is simple enough people can write their own OSs for it.
+- You can see my list of papers I like [here](https://github.com/hello-world-i-am-human/PAPERSILIKE)
 
 ## Projects
 Here are some projects I have, am, will, or hope to work on.
