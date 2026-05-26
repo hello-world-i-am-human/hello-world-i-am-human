@@ -18,11 +18,14 @@ Here are some projects I have, am, will, or hope to work on.
 | Project | Description | Status | Repo Link |
 |---------|-------------|--------|-----------|
 | USBLlama | Resize the output layer of an LLM and train it to use the output tokens for whatever you tell it they are for at inference time. | WIP (Work In Progress) | NoneType |
-| ChewOnIt | A high level programming language for easily setting up agentic workflows for low resource models. | WIP (Work In Progress) | NoneType |
+| Chewonit | A high level programming language for easily setting up agentic workflows for low resource models. | WIP (Work In Progress) | NoneType |
 | MCCL (My Custom Compiled Lang) | A simple compiled language using a Python compiler for learning. | Hope to | NoneType |
 | Rusthyon | A part compiled, part interpreted language. Allows for both in the same program. | Hope to | NoneType |
+| Build Git From Scratch In Python | A learning project for understanding how Git works. | Hope to | NoneType |
+| Make a Parser For ACDL | Build a parser for ACDL. May use this as a backbone for Chewonit. | Hope to | [Official Site](https://www.acdlang.org)* |
 
-<sub>NoneType in Repo Link alludes to Python's NoneType for those who don't know.</sub>
+<sub>NoneType in Repo Link alludes to Python's NoneType for those who don't know.</sub>  
+<sub>* This site is slow and may not always respond. If this link does not work try [this one](https://github.com/nogaplab/acdl-website) and look for the index.html file.</sub>
 <!--Congratulations! You found the Easter Egg in my README! Your prize is getting to read this: "this"-->
 
 ## Philosophy
